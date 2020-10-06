@@ -1,29 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>scene on Frederic Isingizwe</title>
-    <link>https://Philosfin.github.io/Fred_portfolio/tags/scene/</link>
-    <description>Recent content in scene on Frederic Isingizwe</description>
+    <title>scene on Home</title>
+    <link>https://Philosfin.github.io/Web_portfolio/tags/scene/</link>
+    <description>Recent content in scene on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Sep 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://Philosfin.github.io/Fred_portfolio/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Sep 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://Philosfin.github.io/Web_portfolio/tags/scene/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Chapter I: The Grand Hall</title>
-      <link>https://Philosfin.github.io/Fred_portfolio/post/chapter-1/</link>
+      <title>Project I: Diabetes apps</title>
+      <link>https://Philosfin.github.io/Web_portfolio/post/project-1/</link>
       <pubDate>Sun, 20 Sep 2020 10:58:08 -0400</pubDate>
       
-      <guid>https://Philosfin.github.io/Fred_portfolio/post/chapter-1/</guid>
-      <description>Three hundred and forty-eight years, six months, and nineteen days ago to-day, the Parisians awoke to the sound of all the bells in the triple circuit of the city, the university, and the town ringing a full peal.
-The sixth of January, 1482, is not, however, a day of which history has preserved the memory. There was nothing notable in the event which thus set the bells and the bourgeois of Paris in a ferment from early morning.</description>
+      <guid>https://Philosfin.github.io/Web_portfolio/post/project-1/</guid>
+      <description>Based on a free diabetes dataset (Kaggle: link), the classifier predicts the likelihood of having or not having diabetes, given the variables in the dataset.   Test dataset     Model and tuning     Predictions   Link to GitHub Repository</description>
     </item>
     
     <item>
-      <title>Chapter IV: Master Jacques Coppenole</title>
-      <link>https://Philosfin.github.io/Fred_portfolio/post/chapter-4/</link>
-      <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
+      <title>Project IV: Defect detection in fruit</title>
+      <link>https://Philosfin.github.io/Web_portfolio/post/project-4/</link>
+      <pubDate>Sat, 12 Oct 2019 11:14:48 -0400</pubDate>
       
-      <guid>https://Philosfin.github.io/Fred_portfolio/post/chapter-4/</guid>
-      <description>While the pensioner of Ghent and his eminence were exchanging very low bows and a few words in voices still lower, a man of lofty stature, with a large face and broad shoulders, presented himself, in order to enter abreast with Guillaume Rym; one would have pronounced him a bull-dog by the side of a fox. His felt doublet and leather jerkin made a spot on the velvet and silk which surrounded him.</description>
+      <guid>https://Philosfin.github.io/Web_portfolio/post/project-4/</guid>
+      <description> Process the images; ID the types of defect on the biological material; Label them, and Train a classifier to recognize them.  </description>
     </item>
     
   </channel>
