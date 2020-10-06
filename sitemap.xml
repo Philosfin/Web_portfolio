@@ -3,89 +3,103 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://Philosfin.github.io/Fred_portfolio/</loc>
+    <loc>https://Philosfin.github.io/Web_portfolio/</loc>
     <lastmod>2020-09-20T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://Philosfin.github.io/Fred_portfolio/post/</loc>
+    <loc>https://Philosfin.github.io/Web_portfolio/post/</loc>
     <lastmod>2020-09-20T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://Philosfin.github.io/Fred_portfolio/post/chapter-1/</loc>
+    <loc>https://Philosfin.github.io/Web_portfolio/post/project-1/</loc>
     <lastmod>2020-09-20T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://Philosfin.github.io/Fred_portfolio/tags/scene/</loc>
+    <loc>https://Philosfin.github.io/Web_portfolio/tags/scene/</loc>
     <lastmod>2020-09-20T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://Philosfin.github.io/Fred_portfolio/tags/</loc>
+    <loc>https://Philosfin.github.io/Web_portfolio/tags/</loc>
     <lastmod>2020-09-20T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://Philosfin.github.io/Fred_portfolio/post/chapter-6/</loc>
-    <lastmod>2017-04-14T11:25:05-04:00</lastmod>
+    <loc>https://Philosfin.github.io/Web_portfolio/post/project-2/</loc>
+    <lastmod>2020-02-10T11:00:59-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://Philosfin.github.io/Fred_portfolio/post/chapter-5/</loc>
-    <lastmod>2017-04-13T11:15:58-04:00</lastmod>
+    <loc>https://Philosfin.github.io/Web_portfolio/post/project-3/</loc>
+    <lastmod>2019-11-11T11:13:32-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://Philosfin.github.io/Fred_portfolio/post/chapter-4/</loc>
-    <lastmod>2017-04-12T11:14:48-04:00</lastmod>
+    <loc>https://Philosfin.github.io/Web_portfolio/tags/under-construction/</loc>
+    <lastmod>2019-11-11T11:13:32-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://Philosfin.github.io/Fred_portfolio/post/chapter-3/</loc>
-    <lastmod>2017-04-11T11:13:32-04:00</lastmod>
+    <loc>https://Philosfin.github.io/Web_portfolio/post/project-4/</loc>
+    <lastmod>2019-10-12T11:14:48-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://Philosfin.github.io/Fred_portfolio/post/chapter-2/</loc>
-    <lastmod>2017-04-10T11:00:59-04:00</lastmod>
+    <loc>https://Philosfin.github.io/Web_portfolio/post/project-5/</loc>
+    <lastmod>2019-09-13T11:15:58-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://Philosfin.github.io/Fred_portfolio/about/</loc>
+    <loc>https://Philosfin.github.io/Web_portfolio/post/project-6/</loc>
+    <lastmod>2019-04-14T11:25:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://Philosfin.github.io/Fred_portfolio/categories/</loc>
+    <loc>https://Philosfin.github.io/Web_portfolio/tags/to-be-developed/</loc>
+    <lastmod>2019-04-14T11:25:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://Philosfin.github.io/Fred_portfolio/contact/</loc>
+    <loc>https://Philosfin.github.io/Web_portfolio/about/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://Philosfin.github.io/Web_portfolio/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://Philosfin.github.io/Web_portfolio/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
