@@ -17,13 +17,15 @@
     </item>
     
     <item>
-      <title>Project II: Import Any Python</title>
+      <title>Project II: Data Wrangling</title>
       <link>https://Philosfin.github.io/Web_portfolio/post/project-2/</link>
       <pubDate>Mon, 10 Feb 2020 11:00:59 -0400</pubDate>
       
       <guid>https://Philosfin.github.io/Web_portfolio/post/project-2/</guid>
-      <description>The app allows to import data to Python regardless of the data type; there is no a need to specify what data type it is, the app determines that and uses the right command to import to the local disk.  Alt
- The app allows to interactively specify the data type/source to be imported and executes the right routine for that.  Coming soon</description>
+      <description>(&amp;hellip;)  Alt
+  The app allows to interactively specify the data type/source to be imported and executes the right routine for that.
+  The app allows to import data to Python regardless of the data type; there is no need to specify what data type it is? the app determines that and uses the right command to import to the local disk.
+  Coming soon</description>
     </item>
     
     <item>
@@ -54,9 +56,9 @@
     </item>
     
     <item>
-      <title>Project VI: TBD</title>
+      <title>Project VI: DS Workflows</title>
       <link>https://Philosfin.github.io/Web_portfolio/post/project-6/</link>
-      <pubDate>Sun, 14 Apr 2019 11:25:05 -0400</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://Philosfin.github.io/Web_portfolio/post/project-6/</guid>
       <description></description>

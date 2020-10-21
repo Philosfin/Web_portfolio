@@ -73,20 +73,6 @@
   </url>
   
   <url>
-    <loc>https://Philosfin.github.io/Web_portfolio/post/project-6/</loc>
-    <lastmod>2019-04-14T11:25:05-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://Philosfin.github.io/Web_portfolio/tags/to-be-developed/</loc>
-    <lastmod>2019-04-14T11:25:05-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://Philosfin.github.io/Web_portfolio/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -100,6 +86,18 @@
   
   <url>
     <loc>https://Philosfin.github.io/Web_portfolio/contact/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://Philosfin.github.io/Web_portfolio/post/project-6/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://Philosfin.github.io/Web_portfolio/tags/to-be-developed/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
