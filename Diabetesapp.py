@@ -99,7 +99,7 @@ st.write(prediction[:])
 st.subheader('Prediction Probability')
 st.write(prediction_proba[ : ])
 =======
-# -*- coding: utf-8 -*-
+'''# -*- coding: utf-8 -*-
 """
 Created on Sat Jun 13 15:04:07 2020
 
@@ -199,3 +199,4 @@ st.write(prediction[:])
 st.subheader('Prediction Probability')
 st.write(prediction_proba[ : ])
 >>>>>>> f0b78dba1b1d0e198215348d9193a0718d1cac57
+'''
